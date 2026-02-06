@@ -18,4 +18,4 @@ docker run -d \
   -p 1337:1337 \
   -e HOST=0.0.0.0 \
   -e PORT=1337 \
-  naskio/strapi:latest
+  strapi/strapi:latest
